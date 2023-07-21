@@ -175,6 +175,8 @@ element.style
     border: none;
     margin-left: -4px;
     outline: none;
+    border: 2px solid red;
+    
 }
 .subscribrsction .now:hover{
     background-color: #f2f2f2;
